@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-11T09:50:20.269325+00:00",
-  "totalJobs": 91,
+  "lastUpdated": "2026-10-12T10:30:54.320293+00:00",
+  "totalJobs": 90,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -1830,28 +1830,6 @@
       "tags": [
         "Rust",
         "Go",
-        "AWS",
-        "Claude Code",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5074908008",
-      "company": "Anthropic",
-      "position": "Staff+ Software Engineer, Safeguards Infrastructure ",
-      "location": "London, UK",
-      "remote": false,
-      "salary": "",
-      "description": "We are looking for software engineers to help build the foundational pieces for safety, oversight and intervention mechanisms of our AI systems. As a software engineer on the Safeguards team, you will work to monitor models, prevent misuse, and ensure user well-being. This role will focus on...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
-      "postedAt": "2026-01-21T12:42:00-05:00",
-      "tags": [
-        "TypeScript",
-        "Python",
-        "Rust",
         "AWS",
         "Claude Code",
         "Anthropic"
