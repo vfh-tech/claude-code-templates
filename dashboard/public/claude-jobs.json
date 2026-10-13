@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-12T10:30:54.320293+00:00",
-  "totalJobs": 90,
+  "lastUpdated": "2026-10-13T10:20:24.530281+00:00",
+  "totalJobs": 92,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -8,6 +8,26 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "anth-5443331008",
+      "company": "Anthropic",
+      "position": "Manager, Applied AI Architect",
+      "location": "Tokyo, Japan",
+      "remote": false,
+      "salary": "",
+      "description": "As a leader of Applied AI Solutions Architecture in Japan, you will drive the adoption of frontier AI by enabling the deployment of Anthropic’s products (Claude for Enterprise, Claude Code, and API) across Japanese enterprises and digital-first organizations. You’ll leverage your technical skills...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5443331008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5443331008",
+      "postedAt": "2026-10-12T23:07:58-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "hn-50025234",
       "company": "Location: Bangalore, India (IST, UTC+5:30)",
@@ -1830,6 +1850,28 @@
       "tags": [
         "Rust",
         "Go",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5074908008",
+      "company": "Anthropic",
+      "position": "Staff+ Software Engineer, Safeguards Infrastructure ",
+      "location": "London, UK",
+      "remote": false,
+      "salary": "",
+      "description": "We are looking for software engineers to help build the foundational pieces for safety, oversight and intervention mechanisms of our AI systems. As a software engineer on the Safeguards team, you will work to monitor models, prevent misuse, and ensure user well-being. This role will focus on...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
+      "postedAt": "2026-01-21T12:42:00-05:00",
+      "tags": [
+        "TypeScript",
+        "Python",
+        "Rust",
         "AWS",
         "Claude Code",
         "Anthropic"
